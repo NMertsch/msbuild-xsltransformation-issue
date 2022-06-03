@@ -1,4 +1,6 @@
 # MSBuild XslTransformation Whitespace Issue
+Project to reproduce [dotnet/msbuild!7671](https://github.com/dotnet/msbuild/issues/7671).
+
 How to run:
 - clone this repository
 - execute `dotnet run`
